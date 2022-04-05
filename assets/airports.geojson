@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "scalerank": 2,
+        "type": "major",
+        "name": "Eleftherios Venizelos Int'l",
+        "abbrev": "ATH",
+        "location": "terminal",
+        "gps_code": "LGAV",
+        "iata_code": "ATH",
+        "wikipedia": "http://en.wikipedia.org/wiki/Athens_International_Airport",
+        "natlscale": 150,
+        "featureclass": "Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.94711605540731,
+          37.93623312992537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scalerank": 9,
+        "type": "small",
+        "name": "Sahnewal",
+        "abbrev": "LUH",
+        "location": "terminal",
+        "gps_code": "VILD",
+        "iata_code": "LUH",
+        "wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+        "natlscale": 8,
+        "featureclass": "Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.95707224036518,
+          30.850359856170176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "officialName": "Nezam station branch 2",
+        "name": "Cairo",
+        "description": null,
+        "logo_url": "/uploads/vendors/2/logos/97bcee9d8a673408d02cb63b6e7263792b35ccda12ef87a2c316acd686078435.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.945312,
+          24.527134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "officialName": "Nezam station branch 1",
+        "name": "Cairo",
+        "description": null,
+        "logo_url": "/uploads/vendors/1/logos/f58d0962aeefd1ed806e7078b043898e7e94616a0234cccfe9e342f8af16af80.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.375,
+          29.075375
+        ]
+      }
+    }
+  ]
+}
